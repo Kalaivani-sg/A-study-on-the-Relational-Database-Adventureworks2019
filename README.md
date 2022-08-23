@@ -13,11 +13,21 @@ This project is working the [AdventureWorks Database](https://docs.microsoft.com
 ### Data Transformation in SQL Server
 1.Extract the Country code, Region and sales from sales Territory table and used GROUP BY for country region to find the sales in regionwise and country wise. Created view to use this table and visualize in Visual Studio using Python.
 
- 2.Extract the regional sales of the top performing country and investigate the sales of that particular country regions by using the SUM, WHERE and GROUP BY clauses.
-
-3. Ater transforming, we have a table including all details needed
+ 2. Ater transforming, we have a table including all details needed
 
 ![image](https://user-images.githubusercontent.com/108286429/186141846-fb18676b-18a0-4b6d-be1f-2be0489ebdc9.png)
 
-![image](https://user-images.githubusercontent.com/108286429/186141951-0a7964a0-c2f4-4e35-b5a4-26207daf5061.png)
+### Data Visualization with Python 
+
+1.Visualize Country and Total sales and Best country regions and Total sales: Bar chart, Barh chart (**using Matplotlib**) 
+
+2. The following steps done to visualize the desired values.
+   Grouping the country to plot countrywise sales 
+   Filtering best performing country using max function
+   Filtering best performing country regions
+   
+ ![Answer1 Best country Region vs Sales](https://user-images.githubusercontent.com/108286429/186143835-ed7483ad-f67d-4e53-a54c-cd449e48e5c4.png)
+ 
+ ![Answer1 country vs totalsales](https://user-images.githubusercontent.com/108286429/186143881-644d53fa-8347-4b3e-a6b3-eb5343101b68.png)
+
 
