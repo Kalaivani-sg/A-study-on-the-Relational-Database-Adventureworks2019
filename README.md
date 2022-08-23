@@ -51,7 +51,7 @@ This project is working the [AdventureWorks Database](https://docs.microsoft.com
  ![Aswer2 AnnualLeave vs Bonus](https://user-images.githubusercontent.com/108286429/186157536-266911b5-cdf7-41ac-8b9e-0f69d35ff9fb.png)
  
  
- ## Part 3: 3.What is the relationship between Country and Revenue?
+ ## Part 3: What is the relationship between Country and Revenue?
  
  ### Data Transformation in SQL Server
  
@@ -71,6 +71,34 @@ This project is working the [AdventureWorks Database](https://docs.microsoft.com
 ![Answer3 Country vs TotalannualRevenue](https://user-images.githubusercontent.com/108286429/186159246-a1526702-7f37-48cc-904c-9426a5397486.png)
 
 ![Answer3 Country vs store](https://user-images.githubusercontent.com/108286429/186159276-8653203e-406d-4626-8cba-d594089631a2.png)
+
+
+ ## Part 4: What is the relationship between Country and Revenue?
+ 
+ 1.Extract the Sick leave hours and job title from employee Table and grouped by job title and organization level using GROUP BY clause.
+ 
+ 2.Ater transforming, we have a table including all details needed
+  
+ ![image](https://user-images.githubusercontent.com/108286429/186160174-eee2aebb-18b4-4937-b420-daa53f1039fc.png)
+ 
+ ### Data Visualization with Python
+ 
+ 1.Filter the job title by organizational level and plotted the chart by organizational level and sorted from high to low sick leave by using the sort function.
+ 
+ ![Answer4 Job title vs avgsickleave org1](https://user-images.githubusercontent.com/108286429/186161444-0a9ad591-9aad-406a-8fc4-44de1336b44d.png)
+ 
+ ![Answer4 Job title vs avgsickleave org2](https://user-images.githubusercontent.com/108286429/186161501-93218e85-f527-4bc8-b8cf-10792c40fbbe.png)
+ 
+ ![Answer4 Job title vs avgsickleave org3](https://user-images.githubusercontent.com/108286429/186161535-0168db4b-1695-4afa-9bc0-0df6ea3aa0ec.png)
+
+![Answer4 Job title vs avgsickleave org4](https://user-images.githubusercontent.com/108286429/186161568-82cfa163-f9ce-4a5d-add5-e1b884f977bf.png)
+
+
+
+ 
+ 
+
+
 
  
 
