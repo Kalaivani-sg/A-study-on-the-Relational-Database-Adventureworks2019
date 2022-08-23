@@ -33,5 +33,12 @@ This project is working the [AdventureWorks Database](https://docs.microsoft.com
  ![Answer1 country vs totalsales](https://user-images.githubusercontent.com/108286429/186143881-644d53fa-8347-4b3e-a6b3-eb5343101b68.png)
  
  ## Part 2: What is the relationship between annual leave taken and bonus?
+ 1.Extract the vacation hours as Annual leave and bonus from Employee and Sales person table by using INNER JOIN and primary and forign key business entity ID.Created    view to use this table and visualize in Visual Studio using Python.
+ 
+ 2.Ater transforming, we have a table including all details needed
+ 
+ ![image](https://user-images.githubusercontent.com/108286429/186156715-7d59e524-4593-4cd4-88f8-956eaf8c3fcf.png)
+
+ 
 
 
