@@ -33,11 +33,53 @@ This project is working the [AdventureWorks Database](https://docs.microsoft.com
  ![Answer1 country vs totalsales](https://user-images.githubusercontent.com/108286429/186143881-644d53fa-8347-4b3e-a6b3-eb5343101b68.png)
  
  ## Part 2: What is the relationship between annual leave taken and bonus?
+ 
+ ### Data Transformation in SQL Server
+ 
  1.Extract the vacation hours as Annual leave and bonus from Employee and Sales person table by using INNER JOIN and primary and forign key business entity ID.Created    view to use this table and visualize in Visual Studio using Python.
  
  2.Ater transforming, we have a table including all details needed
  
  ![image](https://user-images.githubusercontent.com/108286429/186156715-7d59e524-4593-4cd4-88f8-956eaf8c3fcf.png)
+ 
+ ### Data Visualization with Python
+ 
+ 1.Visualize Annual leave and Bonus: Scatter plot (**using Matplotlib**)
+ 
+ 2.Calculated correlation coefficient to find the relationship between annual leave and bonus and visualized in scatter plot.
+ 
+ ![Aswer2 AnnualLeave vs Bonus](https://user-images.githubusercontent.com/108286429/186157536-266911b5-cdf7-41ac-8b9e-0f69d35ff9fb.png)
+ 
+ 
+ ## Part 3: 3.What is the relationship between Country and Revenue?
+ 
+ ### Data Transformation in SQL Server
+ 
+ 1.Extract the country region name as country and revenue from store with address and store with demographics table by using INNER JOIN and primary and forign 
+    key business entity ID.Created view to use this table and visualize in Visual Studio using Python.
+ 
+ 2.Ater transforming, we have a table including all details needed
+ 
+ ![image](https://user-images.githubusercontent.com/108286429/186158704-8c838295-8982-4bbf-becf-8543067b3fdb.png)
+ 
+ ### Data Visualization with Python
+ 
+ 1.Visualize Total Revenue , Average revenue and Total stores with country: Bar plot, Barh plot (**using Matplotlib**)
+ 
+ ![Answer3 Country vs Avgrevenue](https://user-images.githubusercontent.com/108286429/186159173-fe0e04c7-3d85-4356-a458-512e5f8fa59a.png)
+
+![Answer3 Country vs TotalannualRevenue](https://user-images.githubusercontent.com/108286429/186159246-a1526702-7f37-48cc-904c-9426a5397486.png)
+
+![Answer3 Country vs store](https://user-images.githubusercontent.com/108286429/186159276-8653203e-406d-4626-8cba-d594089631a2.png)
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
 
  
 
