@@ -23,11 +23,15 @@ This project is working the [AdventureWorks Database](https://docs.microsoft.com
 
 2. The following steps done to visualize the desired values.
    Grouping the country to plot countrywise sales 
+   
    Filtering best performing country using max function
+   
    Filtering best performing country regions
    
  ![Answer1 Best country Region vs Sales](https://user-images.githubusercontent.com/108286429/186143835-ed7483ad-f67d-4e53-a54c-cd449e48e5c4.png)
  
  ![Answer1 country vs totalsales](https://user-images.githubusercontent.com/108286429/186143881-644d53fa-8347-4b3e-a6b3-eb5343101b68.png)
+ 
+ ## Part 2: What is the relationship between annual leave taken and bonus?
 
 
